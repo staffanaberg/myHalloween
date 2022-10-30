@@ -13,6 +13,6 @@ public class User {
         userName = name;
         password = pass;
         typeOfUser = "normal";
-        //whats is noarmal anyways
+        //whata is noarmal aanyways
     }
 }
