@@ -13,5 +13,6 @@ public class User {
         userName = name;
         password = pass;
         typeOfUser = "normal";
+        //what is noarmal anyway
     }
 }
