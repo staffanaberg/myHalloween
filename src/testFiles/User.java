@@ -13,7 +13,7 @@ public class User {
         userName = name;
         password = pass;
         typeOfUser = "normal";
-        //this is my thing
+        //yet another thing
         //whata is noarmal aanyways
     }
 }
